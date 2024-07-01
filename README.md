@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about coding
 - 🌱 I’m currently learning html, java and css
 - 💞️ I’m looking to collaborate on web development
-- ⚡ Fun fact: I don't know how to code.
+- ⚡ Fun fact: I don't know how to code yet...
 
 <!---
 ShaikhZuhair/ShaikhZuhair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
